@@ -5,13 +5,18 @@ A continuation les mostraré una serie de pasos a seguir para poder compilar un 
 ___
 
 [VIDEO DE COMO CREAR REPOSITORIO EN GITHUB](https://youtu.be/q6FHmjSFwwU)
+___
+
 ### Clonar un repositorio en github
 
 * 1. Dirigete a la página principal del repositorio en Github.
 
   2.  Da clic donde esta la flecha que dice "Code" (Indicando descarga) y da clic.
+  
+  ___
 
      [Clic aqui para ver imagen de la explicacion.](https://i.ibb.co/W024BWH/code-button.png)
+     ___
     
 
 * 3. Elige el formato en el que quieres clonar el reporsitorio, ya sea con el https, cli u otro formato disponible.
