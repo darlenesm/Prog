@@ -49,6 +49,7 @@ ___
 
 [VIDEO COMO COMPILAR PROGRAMA DESDE LA MAQUINA CON C#](https://www.youtube.com/watch?v=dsQOLsWqL6o)
 
+ [Hello World C#](http://tpcg.io/jNduyZuu)
 ___
 
 
