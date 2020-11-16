@@ -10,7 +10,8 @@ ___
 
   2.  Da clic donde esta la flecha que dice "Code" (Indicando descarga) y da clic.
 
-     ![code-button](C:\Users\moral\Downloads\code-button.png)
+     [Clic aqui para ver imagen de la explicacion.](https://i.ibb.co/W024BWH/code-button.png)
+    
 
 * 3. Elige el formato en el que quieres clonar el reporsitorio, ya sea con el https, cli u otro formato disponible.
 
@@ -28,7 +29,7 @@ ___
 
 *   En caso de no tener ningún compilador en tu dispositivo, descarga uno o puedes compilarlo online en:  [Compilador Online]( https://www.tutorialspoint.com/codingground.htm).
 
-  **Ejemplo: ** [Hello World C#](http://tpcg.io/jNduyZuu)
+  **Ejemplo:** [Hello World C#](http://tpcg.io/jNduyZuu)
 
   
 
