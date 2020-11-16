@@ -4,6 +4,7 @@ A continuation les mostraré una serie de pasos a seguir para poder compilar un 
 
 ___
 
+[VIDEO DE COMO CREAR REPOSITORIO EN GITHUB](https://youtu.be/q6FHmjSFwwU)
 ### Clonar un repositorio en github
 
 * 1. Dirigete a la página principal del repositorio en Github.
