@@ -31,11 +31,26 @@ ___
 
      ___
 
-     ## COMPILAR CON C#
 
-*   En caso de no tener ningún compilador en tu dispositivo, descarga uno o puedes compilarlo online en:  [Compilador Online]( https://www.tutorialspoint.com/codingground.htm).
+     ## COMPILAR CON C# DESDE LA MAQUINA WINDOWS
 
-  **Ejemplo:** [Hello World C#](http://tpcg.io/jNduyZuu)
+-Abrirmos la cmd desde tu ordenador
+
+-Creamos un directorio con el comando "mkdir + (nombre de preferencia para el directorio)"
+
+-Ingresamos el comando "cd + (nombre del directorio)" para dirigirnos a la carpeta.
+
+-Ingresamos el comando "dotnet new console" para crear una consola.
+
+-Ingresamos "notepad program.cs" y podemos codificar nuestro codigo, luego guardamos los resultados y cerramos la ventana de notepad.
+
+-Finalmente ingresamos "dotnet run" para ejecutar nuestro programa.
+___
+
+[VIDEO COMO COMPILAR PROGRAMA DESDE LA MAQUINA CON C#](https://www.youtube.com/watch?v=dsQOLsWqL6o)
+
+___
+
 
   
 
